@@ -11,7 +11,7 @@ Before getting started, please familiarize yourself with the contents of the [Su
 - a new development, such as "Evaluation of Hermite Patches"
 - a discussion of scope tightening, such as "Standardizing Alembic without HDF5"
 
-For inspiration, here are several proposals that have previously been worked through: https://graphics.pixar.com/usd/release/wp.html
+For inspiration, [here are several proposals](https://graphics.pixar.com/usd/release/wp.html) that have previously been worked through.
 
 ## Relationship to other forums
 
